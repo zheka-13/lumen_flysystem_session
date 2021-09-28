@@ -1,4 +1,4 @@
-# Lumen PHP Framework + Flysystem + Sessions
+# Lumen PHP Framework + Flysystem + Sessions + Laravel IDE Helper + PHP 8.0
 
 Ready Lumen build to start developing 
 
