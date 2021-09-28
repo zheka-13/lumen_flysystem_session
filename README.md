@@ -1,3 +1,9 @@
+# Lumen PHP Framework + Flysystem + Sessions
+
+Ready Lumen build to start developing 
+
+
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
